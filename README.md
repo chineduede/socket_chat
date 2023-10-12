@@ -18,3 +18,6 @@ Commands
 2. To list available users, `/list-users`
 3. To send emotes, `/emote <ex: sending love to everyone>`
 4. To quit, `/q`
+
+Sample screen
+![image](https://github.com/chineduede/socket_chat/assets/68916856/053e9cb9-34b2-4a07-89f9-48bfe92476a6)
